@@ -3,7 +3,7 @@
 /*
 Grove Sensor: Grove-LCD RGB Bakclight
     I/O Type: I2C device
-   Connector: A0
+   Connector: I2C
 Product wiki: http://www.seeedstudio.com/wiki/Grove_-_LCD_RGB_Backlight
 */
 
